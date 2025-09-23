@@ -195,7 +195,7 @@ mysql> SELECT city
 +--------+
 2 rows in set (0.00 sec)
 
-//Que.6->List all the orders wheredate exist '02-JAN-09 and O AMT is maximum.
+//Que.6->List all the orders wheredate exist '02-JAN-09' and O AMT is maximum.
 
 mysql> SELECT *
     -> FROM orders
